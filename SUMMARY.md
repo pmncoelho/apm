@@ -5,7 +5,7 @@
 ## tipos de projetos
 
 * [Readme](tipos-de-projetos/readme/README.md)
-  * [Page 2](tipos-de-projetos/readme/page-2.md)
+  * [Innovation 50X - Moving companies at startup speed](tipos-de-projetos/readme/innovation-50x-moving-companies-at-startup-speed.md)
 * [Preditive](tipos-de-projetos/preditive.md)
 * [Hybrid](tipos-de-projetos/hybrid.md)
 * [Adaptative](tipos-de-projetos/adaptative.md)
