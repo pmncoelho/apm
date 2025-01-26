@@ -8,3 +8,37 @@ description: Resumo da aula
 
 
 
+Projects represent a means of implementing strategies
+
+{% stepper %}
+{% step %}
+### Need
+
+
+{% endstep %}
+
+{% step %}
+### Assessement
+
+
+{% endstep %}
+
+{% step %}
+### Strategy
+
+
+{% endstep %}
+
+{% step %}
+### Project
+
+
+{% endstep %}
+
+{% step %}
+### Change
+
+
+{% endstep %}
+{% endstepper %}
+
