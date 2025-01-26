@@ -4,7 +4,8 @@
 
 ## tipos de projetos
 
-* [Readme](tipos-de-projetos/readme.md)
+* [Readme](tipos-de-projetos/readme/README.md)
+  * [Page 2](tipos-de-projetos/readme/page-2.md)
 * [Preditive](tipos-de-projetos/preditive.md)
 * [Hybrid](tipos-de-projetos/hybrid.md)
 * [Adaptative](tipos-de-projetos/adaptative.md)
