@@ -73,3 +73,13 @@ Project management evolution
 
 <figure><img src="../../.gitbook/assets/PM-History-2.png" alt=""><figcaption></figcaption></figure>
 
+Project management focus
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-01-27 at 14.41.48.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/Screenshot 2025-01-27 at 14.44.01.png" alt=""><figcaption></figcaption></figure>
+
+Project management definitions
+
+<table data-view="cards"><thead><tr><th></th><th></th><th></th><th></th></tr></thead><tbody><tr><td>Project</td><td>Temporary</td><td>Developed progressively</td><td>Generates a unique result, product or service</td></tr></tbody></table>
+
