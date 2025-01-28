@@ -13,6 +13,7 @@
 * [Hybrid](tipos-de-projetos/hybrid.md)
 * [Adaptative](tipos-de-projetos/adaptative.md)
 
-## Group 1
+## OKR
 
-* [Page 1](group-1/page-1.md)
+* [Readme](okr/readme.md)
+* [Measure what matters](okr/measure-what-matters.md)
